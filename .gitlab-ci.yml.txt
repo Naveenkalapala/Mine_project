@@ -1,5 +1,0 @@
-demo_job:
-     tags:
-       - ci
-     script:
-       echo Hello World
